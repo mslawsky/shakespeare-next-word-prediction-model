@@ -200,7 +200,7 @@ The model demonstrates impressive capabilities in generating Shakespeare-like te
 - **Text Quality**: Generated text captures Shakespearean syntax and vocabulary
 - **Learning Curve**: Rapid improvement in first 20 epochs, with refinement in later epochs
 
-![Training Curve](training_curve.png)
+![Training Curve](training-curve.png)
 
 ---
 
