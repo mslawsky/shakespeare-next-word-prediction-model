@@ -10,7 +10,7 @@
 
 This project implements a **next-word prediction model** using TensorFlow and Keras to generate text in the style of Shakespeare's sonnets. The neural network is trained on a corpus of Shakespeare's work and learns to predict the next word in a sequence, allowing it to generate new, Shakespeare-like text.
 
-Like a Jedi apprentice learning to wield the Force, this neural network learns to wield the language of the Bard, predicting word patterns and generating text that mimics Shakespeare's unique style.
+However there is a twist to this exercise... Like a Jedi apprentice learning to wield the Force, this neural network learns to wield the language of the Bard, predicting word patterns and generating text that mimics Shakespeare's unique style.
 
 ---
 
